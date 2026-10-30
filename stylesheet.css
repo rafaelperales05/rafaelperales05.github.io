@@ -71,6 +71,7 @@ h1 span {
 
 .cat-photo {
     width: 100%;
+    max-width: 450px;
     aspect-ratio: 1;
     border: 14px solid white;
     border-radius: 50%;
